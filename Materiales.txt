@@ -1,0 +1,22 @@
+Según lo que se puede apreciar en el vídeo, la lista tentativa de materiales para el proyecto son:
+
+
+-4 Servomotres con engranajes de metal
+-1 Tarjeta controladora
+-1 Cámara web(Preferencia Pseye)
+-1 Fuente de poder
+-1 Computadora compatible
+-1 Botonera (ojo de cangrejo)
+
+
+Software
+-Arduino Ide
+-OpenCv
+
+
+
+Herramientas
+-Cortadora
+-Destorillador
+-Impresora 3d
+-Cnc crtadora láser
